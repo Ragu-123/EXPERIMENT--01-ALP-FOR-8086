@@ -1,11 +1,11 @@
-# EXPERIMENT-01 ALP FOR 8086
-# Name :RAGUNATH R
-# Roll no:212222240081 
-# Date of experiment :
+```
 
+NAME:RAGUNATH R
+REGISTER NO: 212222240081
 
+```
 
-
+## EXPERIMENT-01 ALP FOR 8086
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
